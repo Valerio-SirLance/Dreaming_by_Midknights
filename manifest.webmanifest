@@ -1,0 +1,15 @@
+{
+  "name": "DREAMING",
+  "short_name": "DREAMING",
+  "id": "com.midknights.dreaming",
+  "description": "Did you ever wonder about a place where people go when they dream? Step into a mystical realm, where dreams materialize, a place protected by the ethereal Guardian of Dreams from the haunting clutches of Nightmares, assuring the dreamer’s gentle awakening and untroubled rest.\n\nDreaming is a 2-D pixel interactive game where players can play as Tala – one of the Guardian of Dreams, in upholding serenity and equilibrium within the enigmatic Realm of Dreams.",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "edf73d9237c827ffc5a1d98cb9c8c2d89945e38706c8f3e554dd4e1f8fa723ec-Dreaming Icon.png2.png",
+        "sizes": "512x512"
+      }]
+}

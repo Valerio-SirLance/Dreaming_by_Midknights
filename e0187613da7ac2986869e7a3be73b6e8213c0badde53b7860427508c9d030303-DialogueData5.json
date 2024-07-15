@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Surya",
+		"tags": "",
+		"body": "<<Surya>>\r\nYou are the new guardian, right? \r\nWhat are you doing here?\r\n\r\n<<Tala>>\r\nI’m going to the [b]Dreaming Kingdom[/b]. \r\nI think something’s wrong with the Realm of Dreams. \r\n<<Tala>>\r\nI must report the Nightmare’s unusual behavior to the [b]Master of Dreams[/b].\r\n\r\n<<Surya>>\r\nYou don’t have any idea of what is happening right now? \r\nIt’s better if you stay in your area...\r\n<<Surya>>\r\n...because the [b]Mare[/b] captured the [b]Master of Dreams[/b].\r\n\r\n<<Tala>>\r\nThe Mare? The [b]Mistress of Nightmares[/b]?!\r\n\r\n<<Surya>>\r\nI warn you not to go on your quest anymore. \r\nIt’s too risky...\r\n\r\n<<Tala>>\r\nI’m not turning down on my quest...\r\nI’ll go to the [b]Dreaming Kingdom[/b] to help the people fight against the Mare!\r\n\r\n<<Surya>>\r\nEh. Good luck with dying.",
+		"position": {
+			"x": 375,
+			"y": 207
+		},
+		"colorID": 0
+	}
+]

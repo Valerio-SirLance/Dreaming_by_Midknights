@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Sinag",
+		"tags": "",
+		"body": "<<Sinag>>\r\nHelp! Help! There’s too many nightmares! I can’t fight them all\r\n...\r\n\r\n<<Tala>>\r\nDon’t you worry! I can help you face them!\r\n...\r\n\r\n<<Sinag>>\r\nQuick! Fight them before they get us!\r\n...\r\n\r\n<<Sinag>>\r\nWow! Thanks for the help. But now be careful, the next path you are taking in your quest is a bit more dangerous than here...\r\n...\r\n\r\n<<Tala>>\r\nI will.",
+		"position": {
+			"x": 375,
+			"y": 207
+		},
+		"colorID": 0
+	}
+]

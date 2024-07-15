@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Lancelot",
+		"tags": "",
+		"body": "<<Lancelot>>\r\nWell, hello there, new guardian!\r\n...\r\n\r\n<<Tala>> \r\nHi there! I’m Tala!\r\n...\r\n\r\n<<Lancelot>>\r\nGreat adventure in front of you! But be careful, something’s wrong outside…\r\nAs you can see, beside me is a [b]Nightmare[/b], something that us the Guardians of Dreams must dispatch.\r\nI think they are everywhere… But I don’t know why… I wish I could know it in the [b]Dreaming Kingdom[/b].\r\n...\r\n\r\n<<Tala>> \r\nHmmm… I think you can let me figure this out! Let me go there and know why.\r\n...\r\n\r\n<<Lancelot>>\r\nOhhh thank goodness! Thank you for your kindness, new guardian!\r\n...\r\n\r\n<<Tala>> \r\nNo worries…\r\n",
+		"position": {
+			"x": 434,
+			"y": 250
+		},
+		"colorID": 0
+	}
+]
