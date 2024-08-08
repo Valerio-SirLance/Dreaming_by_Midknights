@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://valerio-sirlance.github.io/dreaming_by_midknights/">
-    <img src="https://github.com/Valerio-SirLance/dreaming_by_midknights/blob/main/dreaming-header.svg" alt="Kajas Logo" width="max-content" padding="0"/>
+  <a href="https://valerio-sirlance.github.io/Dreaming_by_Midknights/">
+    <img src="https://github.com/Valerio-SirLance/Dreaming_by_Midknights/blob/main/dreaming-header.svg" alt="Kajas Logo" width="max-content" padding="0"/>
   </a>
 
   # Dreaming by Midknights
@@ -21,7 +21,7 @@
     <tr>
       <td align="center">
         <strong>Github Pages:</strong><br>
-        <a href="https://valerio-sirlance.github.io/dreaming_by_midknights/">
+        <a href="https://valerio-sirlance.github.io/Dreaming_by_Midknights/">
           <img src="https://img.shields.io/badge/Github%20Pages-Visit%20Here-black" alt="Github Pages">
         </a>
       </td>
